@@ -108,6 +108,5 @@ Optimize Regional Markets and Route Performance
 
 ***
 
-- See the raw data I used for this project in the [CSV Files](Datasets).
 - See my SQL queries in [SQL](Exploration/agency_sales_analysis.sql).
 - See the visualization in [Power BI Visual](Visualization/Visualization.pdf).
