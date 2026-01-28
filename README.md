@@ -1,4 +1,4 @@
-# Agency-Sales-Analysis
+# Exploratory-Data-Analysis
 
 ***
 
@@ -108,6 +108,6 @@ Optimize Regional Markets and Route Performance
 
 ***
 
-- See the raw data I used for this project in the [CSV Files](Agency-Sales-Analysis/Datasets).
-- See my SQL queries in [SQL](Agency-Sales-Analysis/Exploration).
-- See the visualization in [Power BI Visual](Agency-Sales-Analysis/Visualization).
+- See the raw data I used for this project in the [CSV Files](Exploratory-Data-Analysis/Datasets).
+- See my SQL queries in [SQL](Exploratory-Data-Analysis/Exploration).
+- See the visualization in [Power BI Visual](Exploratory-Data-Analysis/Visualization).
